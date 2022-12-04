@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="ExampleApp1.app/ExampleApp1">
+      <BCSymbolMapName>ExampleApp1.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>ExampleApp1.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\cdo\Library\Caches\Xamarin\mtbs\builds\ExampleApp1\9bea5eb0bc117d9bca0bff95d29c13e8a15b6512a39946fb0aab8473c86c83cd\obj\iPhoneSimulator\Debug\mtouch-symbols.list</SymbolFile>
+      <DSymName>ExampleApp1.app.dSYM</DSymName>
+      <SourceProjectPath>D:\2022\Xamarin_iOSApps\ExampleApp1\ExampleApp1</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
