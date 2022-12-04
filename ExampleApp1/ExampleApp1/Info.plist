@@ -4,8 +4,6 @@
 <dict>
 	<key>CFBundleDisplayName</key>
 	<string>ExampleApp1</string>
-	<key>CFBundleIdentifier</key>
-	<string>smbc.azureweb.webviewapp</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -16,20 +14,6 @@
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
 		<true/>
-		<key>UISceneConfigurations</key>
-		<dict>
-			<key>UIWindowSceneSessionRoleApplication</key>
-			<array>
-				<dict>
-					<key>UISceneConfigurationName</key>
-					<string>Default Configuration</string>
-					<key>UISceneDelegateClassName</key>
-					<string>SceneDelegate</string>
-					<key>UISceneStoryboardFile</key>
-					<string>Main</string>
-				</dict>
-			</array>
-		</dict>
 	</dict>
 	<key>MinimumOSVersion</key>
 	<string>13.0</string>
@@ -63,5 +47,7 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.azurewebsite.xamarin-simple</string>
 </dict>
 </plist>
